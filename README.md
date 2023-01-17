@@ -3,7 +3,9 @@
 <p>https://github.com/hezkielvalentino/Lab-UAS.git</p>
 
 ## Lakukan `php spark` pada shell XAMPP
-<p>Akses folder yang sudah di download sebelumnya dan pindahkan pada folder xampp htdocs `cd c:\xampp\htdocs\ci4\`</p>
+<p>Akses folder yang sudah di download sebelumnya dan pindahkan pada folder xampp htdocs</p>
+
+`cd c:\xampp\htdocs\ci4\`
 
 ![gambar1](screenshot/php_spark.png)
 
