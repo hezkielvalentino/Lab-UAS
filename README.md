@@ -2,7 +2,9 @@
 ## Download File
 <p>https://github.com/hezkielvalentino/Lab-UAS.git</p>
 
-## Lakukan `php spark` pada cmd
+## Lakukan `php spark` pada shell XAMPP
+<p>Akses folder yang sudah di download sebelumnya dan pindahkan pada folder xampp htdocs `cd c:\xampp\htdocs\ci4\`</p>
+
 ![gambar1](screenshot/php_spark.png)
 
 ## Download telebih dahulu Composer dan install pada folder yang sudah di download dengan VS Code terminal
